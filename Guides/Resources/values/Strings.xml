@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Accident">First Steps After An Accident</string>
+    <string name="Document">What to Document</string>
+    <string name="Claim">How to Lodge A Claim</string>
+    <string name="Recovery">Recovery Services</string>
+    <string name="Disaster">Disaster Survival Guide</string>
+    <string name="FAQ">Frequently Asked Questions</string>
+    <string name="ApplicationName">Guides</string>
+</resources>
